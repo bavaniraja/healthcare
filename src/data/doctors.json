@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Khan",
+    "specialization": "Cardiologist",
+    "image": "https://images.pexels.com/photos/5207116/pexels-photo-5207116.jpeg",
+    "available": true,
+    "bio": "Expert in heart-related conditions with 12+ years of experience."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ramesh Iyer",
+    "specialization": "Dermatologist",
+    "image": "https://images.pexels.com/photos/6749777/pexels-photo-6749777.jpeg",
+    "available": false,
+    "bio": "Specialist in skin care and laser treatments."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meera Nair",
+    "specialization": "Pediatrician",
+    "image": "https://images.pexels.com/photos/8376173/pexels-photo-8376173.jpeg",
+    "available": true,
+    "bio": "Compassionate children's doctor with a decade of experience."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arjun Patel",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://images.pexels.com/photos/4421494/pexels-photo-4421494.jpeg",
+    "available": true,
+    "bio": "Skilled in bone and joint surgery with 15+ years of practice."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nidhi Verma",
+    "specialization": "Gynecologist",
+    "image": "https://images.pexels.com/photos/7089031/pexels-photo-7089031.jpeg",
+    "available": false,
+    "bio": "Trusted expert in women’s health and maternity care."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Vinay Raj",
+    "specialization": "Neurologist",
+    "image": "https://plus.unsplash.com/premium_photo-1733306534776-d87b7fa2d6e3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "available": true,
+    "bio": "Specialist in treating neurological disorders and brain health."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Sneha Desai",
+    "specialization": "ENT Specialist",
+    "image": "https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg",
+    "available": true,
+    "bio": "Experienced in ear, nose, and throat care for all age groups."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Rajeshwari Menon",
+    "specialization": "Oncologist",
+    "image": "https://plus.unsplash.com/premium_photo-1661341423936-40b48564a5bf?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "available": false,
+    "bio": "Leading expert in cancer care and chemotherapy treatments."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Manish Kapoor",
+    "specialization": "Urologist",
+    "image": "https://images.pexels.com/photos/8376296/pexels-photo-8376296.jpeg",
+    "available": true,
+    "bio": "Experienced in urinary tract and male reproductive health."
+  },
+  {
+    "id": 10,
+    "name": "Dr. Pooja Sharma",
+    "specialization": "Endocrinologist",
+    "image": "https://media.istockphoto.com/id/1326326607/photo/doctor-palpates-of-fat-mature-womans-neck-for-diagnostics-of-thyroid-diseases-and.jpg?s=2048x2048&w=is&k=20&c=LYrRoJu2aMqHjl1Vfje7jjzPsI5mvHUMsc5JlSS6L8g=",
+    "available": false,
+    "bio": "Diabetes and hormone specialist with 8+ years of practice."
+  },
+  {
+    "id": 11,
+    "name": "Dr. Rohit Agarwal",
+    "specialization": "Gastroenterologist",
+    "image": "https://media.istockphoto.com/id/1488720123/photo/doctor-holding-a-human-stomach.jpg?s=2048x2048&w=is&k=20&c=ldl5jCd3BbZ4n8nGnGvf5Yvo58_kcaRckXARZ62Cb_M=",
+    "available": true,
+    "bio": "Expert in digestive system disorders and procedures."
+  },
+  {
+    "id": 12,
+    "name": "Dr. Priya Shetty",
+    "specialization": "Psychiatrist",
+    "image": "https://images.pexels.com/photos/6749773/pexels-photo-6749773.jpeg",
+    "available": true,
+    "bio": "Mental health specialist with a holistic approach to treatment."
+  }
+]
